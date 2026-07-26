@@ -24,3 +24,10 @@ Welcome to my Applied AI & Robotics portfolio. This repository showcases project
   - ROS
   - Raspberry Pi
   - Git & GitHub 
+
+## Featured Projects 
+
+- PPE Compliance Check (YOLO Object Detection)
+- NewsBot 2.0 (Natural Language Processing)
+- UR3e Industrial Cobot Automation
+- AI Cybersecurity Capstone 

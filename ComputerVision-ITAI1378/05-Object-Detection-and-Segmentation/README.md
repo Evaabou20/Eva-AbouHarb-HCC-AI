@@ -80,7 +80,7 @@ Used for:
 
 | File | Description |
 |------|-------------|
-| `L06_AbouHarb_Eva_ITAI1378.pdf` | Lab notebook demonstrating object detection, segmentation, YOLO11, YOLO11-seg, SAM 2, and evaluation concepts. |
+| `L06_AbouHarb_Eva_ITAI1378.ipynb` | Lab notebook demonstrating object detection, segmentation, YOLO11, YOLO11-seg, SAM 2, and evaluation concepts. |
 | `J06_AbouHarb_Eva_ITAI1378.pdf` | Reflection discussing object detection, segmentation, evaluation metrics, model comparisons, and the proposed midterm project. |
 
 ---

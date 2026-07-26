@@ -86,7 +86,7 @@ The model successfully learned visual features such as edges, textures, and shap
 
 | File | Description |
 |------|-------------|
-| `Lab05_CNN_Chihuahua_Muffin.pdf` | CNN implementation demonstrating data preparation, model architecture, training, evaluation, and prediction visualization. |
+| `Lab05_CNN_Chihuahua_Muffin.ipynb` | CNN implementation demonstrating data preparation, model architecture, training, evaluation, and prediction visualization. |
 | `L05_EvaAbouHarb_ITAI_1378.pdf` | Reflective journal discussing CNN concepts, performance analysis, challenges, ethical considerations, and real-world applications. |
 
 ---

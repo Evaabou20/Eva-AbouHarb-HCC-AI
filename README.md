@@ -12,17 +12,26 @@ Welcome to my Applied AI & Robotics portfolio. This repository showcases project
 
   ## Technical Skills
 
+**Programming** 
   - Python
   - Jupyter Notebook
   - Google Colab
+
+**Computer Vision**
   - OpenCV
   - YOLO
   - SAM
+
+**Machine Learning & AI**
   - PyTorch
   - TensorFlow
   - Hugging Face Transformers
+
+**Robotics**
   - ROS
   - Raspberry Pi
+
+**Version Control**
   - Git & GitHub 
 
 ## Featured Projects 

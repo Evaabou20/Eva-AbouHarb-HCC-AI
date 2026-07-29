@@ -1,8 +1,15 @@
 # Video Analysis and Object Tracking
 
+**Course:** ITAI 1378 – Computer Vision and AI  
+**Module:** 10 – Video Analysis and Object Tracking
+
+---
+
 ## Overview
 
 This module explores **video analysis** and **multi-object tracking** using **Ultralytics YOLOv8**. The project compares object detection with object tracking by implementing **ByteTrack** and **BoT-SORT** on a real-world pedestrian video. It also analyzes common tracking failure modes and demonstrates how video tracking can be applied to a real-world Houston workplace scenario.
+
+This project demonstrates how modern tracking algorithms maintain object identities across video frames and evaluates their performance using real-world pedestrian footage.
 
 ---
 
@@ -28,11 +35,17 @@ This module explores **video analysis** and **multi-object tracking** using **Ul
 
 ---
 
-## Project Files
+## Resources
 
-- 📓 [Interactive Jupyter Notebook (Google Drive)](https://drive.google.com/file/d/1w-HpE1ExR-_cijI1dnZ1e7kgSN_qzqla/view?usp=sharing)
+### 📓 Interactive Notebook (Google Drive)
 
-- 📄 [PDF Export of the Completed Notebook](ITAI1378_Lab10_AbouHarb.pdf)
+The completed notebook is hosted on Google Drive because it exceeds GitHub's file size limit.
+
+https://drive.google.com/file/d/1w-HpE1ExR-_cijI1dnZ1e7kgSN_qzqla/view?usp=sharing
+
+### 📄 PDF Export
+
+- **ITAI1378_Lab10_AbouHarb.pdf**
 
 ---
 
@@ -47,9 +60,20 @@ This module explores **video analysis** and **multi-object tracking** using **Ul
 
 ---
 
+## Tracking Results
+
+| Metric | Result |
+|---------|--------|
+| Manual Count | **55 people** |
+| ByteTrack | **79 unique IDs** |
+| BoT-SORT | **74 unique IDs** |
+
+---
+
 ## Key Results
 
-- Compared **object detection** with **multi-object tracking**.
-- Evaluated **ByteTrack** and **BoT-SORT** on the same video sequence.
-- Identified common tracking failure modes, including lost tracks during occlusions and cascading failures in crowded scenes.
-- Applied video tracking concepts to a PPE compliance monitoring scenario for a Houston refinery.
+- Compared object detection with multi-object tracking.
+- Evaluated ByteTrack and BoT-SORT on the same pedestrian video.
+- Identified common tracking failure modes, including **lost tracks during occlusions** and **cascading failures in crowded scenes**.
+- Applied video tracking concepts to a **PPE compliance monitoring** scenario for a Houston refinery.
+- Compared tracker performance using both automated tracking statistics and manual observation.

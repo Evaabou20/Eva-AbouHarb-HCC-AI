@@ -38,15 +38,15 @@ This repository contains our group presentation for **ITAI 1378 – Computer Vis
 
 - `ITAI1378_3D_Computer_Vision_and_NeRFs.pptx`
 
-This is the original editable PowerPoint presentation created by our team.
+This is the original editable PowerPoint presentation created by our team during the development of the project.
 
 ### 🎥 Final Recorded Presentation
 
-The final version submitted for the course includes the completed PowerPoint slide recordings from all group members. Since the file exceeds GitHub's file size limit, it is hosted on Google Drive.
+The final version submitted for the course includes the completed PowerPoint slide recordings from all group members. Since the presentation exceeds GitHub's file size limit, it is hosted on Microsoft OneDrive.
 
 **View the final recorded presentation:**
 
-https://docs.google.com/presentation/d/1I-P6wPuarCUH2-r7l38823T9ADYwoYh0/edit?usp=sharing&ouid=107180900369257048425&rtpof=true&sd=true
+https://houcomcol-my.sharepoint.com/:p:/r/personal/w215094304_student_hccs_edu/Documents/ITAI1378_3D_Computer_Vision_and_NeRFs%201.pptx?d=wb3e79f876f2a42d2936342feda36e4a5&csf=1&web=1&e=eXLKDv
 
 ---
 
